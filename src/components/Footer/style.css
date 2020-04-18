@@ -1,0 +1,8 @@
+footer {
+    height: 100px;
+    margin-top: 6%;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(1,74,107, 0.8);
+}

@@ -1,0 +1,24 @@
+nav {
+    height: 100px;
+    margin-bottom: 70px;
+   background-color: rgba(1,74,107, 0.8);
+   width: 100%;
+}
+
+
+.rlt {
+    font-family: 'Lobster', cursive;
+  margin-top: 70px;
+    vertical-align: top ;
+    
+   
+    justify-content: center;
+  
+      font-size: 120px;
+      color: white;
+      
+      
+      text-align: center;
+      /* text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; */
+  }
+  

@@ -1,0 +1,13 @@
+a {
+    color: white;
+  }
+  
+  a:hover {
+    color: whitesmoke;
+  }
+  .card {
+    background-color: transparent;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 90%;
+  }
