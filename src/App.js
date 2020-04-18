@@ -1,8 +1,6 @@
 import React from 'react';
-import { BrowserRouter as Router } from "react-router-dom";
-
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from "./components/Navbar"
-import Linkedin from "./components/Linkedin"
 import Col from "./components/Col"
 import Container from "./components/Container"
 import Row from "./components/Row"
@@ -11,6 +9,8 @@ import Overlay from './components/Overlay';
 import Projectslide from './components/Projectslide';
 import Aboutmetext from './components/Aboutmetext';
 import Aboutmeimage from './components/Aboutmeimage';
+import Home from "./pages/home"
+import Resumepage from "./pages/Resumepage"
 
 function App() {
   return (
@@ -19,23 +19,8 @@ function App() {
       <div>
         <Navbar />
         <Container >
-          <Row>
-            <Col size="md-6">
-              <Projectslide />
-            </Col>
-
-            <Col size="md-6">
-              <Row>
-                <Col size="md-7">
-                  <Aboutmeimage />
-                </Col>
-                <Col size="md-5">
-                  <Aboutmetext />
-
-                </Col>
-              </Row>
-            </Col>
-          </Row>
+          <Route exact path="/20-reactportfolio" component={Home} />
+          <Route exact path="/20-reactportfolio/resume" component={Resumepage} />
         </Container>
 
         <Footer />

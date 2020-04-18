@@ -10,7 +10,7 @@ function Navbar() {
         <nav className="navbar navbar-expand-xs navbar-dark background">
             <Col size="xs-4"></Col>
             <Col size="xs-4" >
-                <Link className="navbar-brand rlt d-flex justify-content-center" to="/">
+                <Link className="navbar-brand rlt d-flex justify-content-center" to="/20-reactportfolio">
                     RLT
       </Link>
             </Col>

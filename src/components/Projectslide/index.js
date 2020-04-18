@@ -4,6 +4,8 @@ import brb from "./images/brb.png"
 import weather from "./images/weather.png"
 import project1 from "./images/project1.png"
 import burger from "./images/burgerinput.png"
+import employee from "./images/employee.png"
+import fitness from "./images/fitness.png"
 import "./style.css"
 
 function Projectslide() {
@@ -88,6 +90,42 @@ function Projectslide() {
                         <a href="https://github.com/rythomas2525/burgerinput " target="_blank" rel="noopener noreferrer">
                             <div className="card-body">
                                 <h3 className="card-title" style={{ textAlign: 'center' }}>Burger Input Repo </h3>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {/* employee tracker */}
+                <div className="carousel-item">
+                    <div className=" card border rounded m-2 ml-4  col-s-11 ">
+                        <a href="https://rythomas2525.github.io/19-employeetracker/" target="_blank" rel="noopener noreferrer">
+                            <div className="card-body">
+                                <h3 className="card-title " style={{ textAlign: 'center' }}>
+                                    Employee Tracker
+                </h3>
+                            </div>
+                        </a>
+                        <img src={employee} className="card-img-top burgerinputThumbnail  img-responsive" alt="Weather" />
+                        <a href="https://github.com/rythomas2525/19-employeetracker " target="_blank" rel="noopener noreferrer">
+                            <div className="card-body">
+                                <h3 className="card-title" style={{ textAlign: 'center' }}>Employee Tracker Repo </h3>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {/* fitness tracker */}
+                <div className="carousel-item">
+                    <div className=" card border rounded m-2 ml-4  col-s-11 ">
+                        <a href="https://shrouded-gorge-78520.herokuapp.com/?id=5e8363462f62b600176fe031" target="_blank" rel="noopener noreferrer">
+                            <div className="card-body">
+                                <h3 className="card-title " style={{ textAlign: 'center' }}>
+                                    Fitness Tracker
+                </h3>
+                            </div>
+                        </a>
+                        <img src={fitness} className="card-img-top burgerinputThumbnail  img-responsive" alt="Weather" />
+                        <a href="https://github.com/rythomas2525/17fitnesstracker" target="_blank" rel="noopener noreferrer">
+                            <div className="card-body">
+                                <h3 className="card-title" style={{ textAlign: 'center' }}>Fitness Tracker Repo </h3>
                             </div>
                         </a>
                     </div>

@@ -14,7 +14,7 @@ function Aboutmetext() {
             successfully for seven years.
             However, I made the switch to web development and haven't looked back. I specialize
             in
-              HTML, CSS, JavaScript, JQuery, and NODE.js.</p>
+              HTML, CSS, JavaScript, JQuery, React.js, MySQL, MongoDB, and NODE.js.</p>
         </div>
 
     );
