@@ -18,7 +18,7 @@ function App() {
       <Overlay />
       <div>
         <Navbar />
-        <Container>
+        <Container >
           <Row>
             <Col size="md-6">
               <Projectslide />

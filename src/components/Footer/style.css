@@ -3,6 +3,6 @@ footer {
     margin-top: 6%;
     position: absolute;
     bottom: 0;
-    width: 100%;
+    width: 100vw; 
     background-color: rgba(1,74,107, 0.8);
 }

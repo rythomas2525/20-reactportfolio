@@ -11,24 +11,24 @@ import Email from "../Email";
 
 function Footer() {
     return (
-        <footer className="navbar navbar-expand-lg navbar-dark ">
+        <footer className="navbar navbar-expand-xs navbar-dark ">
 
             <Col size="md-4">
             </Col>
 
 
-            <Col size="md-1">
+            <Col size="xs-1">
                 <Linkedin />
 
             </Col>
-            <Col size="md-1">
+            <Col size="xs-1">
                 <Github />
             </Col>
-            <Col size="md-1">
+            <Col size="xs-1">
                 <Resume />
             </Col>
 
-            <Col size="md-1">
+            <Col size="xs-1">
                 <Email />
             </Col>
 
