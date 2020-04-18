@@ -13,7 +13,7 @@ function Projectslide() {
 
     return (
 
-        <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">
+        <div id="carouselExampleIndicators" className="carousel slide mr-3" data-ride="carousel">
             <ol className="carousel-indicators col-xs-9">
                 <li data-target="#carouselExampleIndicators" data-slide-to={0} className="active" />
                 <li data-target="#carouselExampleIndicators" data-slide-to={1} />
