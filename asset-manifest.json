@@ -1,31 +1,33 @@
 {
   "files": {
     "main.css": "/20-reactportfolio/static/css/main.d56a3360.chunk.css",
-    "main.js": "/20-reactportfolio/static/js/main.6e9af64b.chunk.js",
-    "main.js.map": "/20-reactportfolio/static/js/main.6e9af64b.chunk.js.map",
+    "main.js": "/20-reactportfolio/static/js/main.1c63dd39.chunk.js",
+    "main.js.map": "/20-reactportfolio/static/js/main.1c63dd39.chunk.js.map",
     "runtime-main.js": "/20-reactportfolio/static/js/runtime-main.5204fce7.js",
     "runtime-main.js.map": "/20-reactportfolio/static/js/runtime-main.5204fce7.js.map",
-    "static/js/2.afa36fd3.chunk.js": "/20-reactportfolio/static/js/2.afa36fd3.chunk.js",
-    "static/js/2.afa36fd3.chunk.js.map": "/20-reactportfolio/static/js/2.afa36fd3.chunk.js.map",
+    "static/js/2.e3456c4e.chunk.js": "/20-reactportfolio/static/js/2.e3456c4e.chunk.js",
+    "static/js/2.e3456c4e.chunk.js.map": "/20-reactportfolio/static/js/2.e3456c4e.chunk.js.map",
     "index.html": "/20-reactportfolio/index.html",
-    "precache-manifest.52eb0a30f55d2de982de69a398fd8251.js": "/20-reactportfolio/precache-manifest.52eb0a30f55d2de982de69a398fd8251.js",
+    "precache-manifest.16b0da9b0b2006d93cba1e2d9ccaa29f.js": "/20-reactportfolio/precache-manifest.16b0da9b0b2006d93cba1e2d9ccaa29f.js",
     "service-worker.js": "/20-reactportfolio/service-worker.js",
     "static/css/main.d56a3360.chunk.css.map": "/20-reactportfolio/static/css/main.d56a3360.chunk.css.map",
-    "static/js/2.afa36fd3.chunk.js.LICENSE.txt": "/20-reactportfolio/static/js/2.afa36fd3.chunk.js.LICENSE.txt",
+    "static/js/2.e3456c4e.chunk.js.LICENSE.txt": "/20-reactportfolio/static/js/2.e3456c4e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/20-reactportfolio/static/media/00000PORTRAIT_00000_BURST20180529143630071.43cdf33a.jpg",
     "static/media/IMG_20191017_112234.jpg": "/20-reactportfolio/static/media/IMG_20191017_112234.776e901b.jpg",
     "static/media/brb.png": "/20-reactportfolio/static/media/brb.4b603cf4.png",
     "static/media/burgerinput.png": "/20-reactportfolio/static/media/burgerinput.cd16d5ff.png",
+    "static/media/eaglecafe.png": "/20-reactportfolio/static/media/eaglecafe.7adc2f96.png",
     "static/media/employee.png": "/20-reactportfolio/static/media/employee.d38d251a.png",
     "static/media/fitness.png": "/20-reactportfolio/static/media/fitness.0ff41edb.png",
     "static/media/github-11-xxl.png": "/20-reactportfolio/static/media/github-11-xxl.5cd9f30e.png",
     "static/media/project1.png": "/20-reactportfolio/static/media/project1.d0731741.png",
+    "static/media/ttf.png": "/20-reactportfolio/static/media/ttf.985312d8.png",
     "static/media/weather.png": "/20-reactportfolio/static/media/weather.84a815ca.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5204fce7.js",
-    "static/js/2.afa36fd3.chunk.js",
+    "static/js/2.e3456c4e.chunk.js",
     "static/css/main.d56a3360.chunk.css",
-    "static/js/main.6e9af64b.chunk.js"
+    "static/js/main.1c63dd39.chunk.js"
   ]
 }
