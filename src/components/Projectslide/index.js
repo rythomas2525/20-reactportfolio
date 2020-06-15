@@ -6,6 +6,8 @@ import project1 from "./images/project1.png"
 import burger from "./images/burgerinput.png"
 import employee from "./images/employee.png"
 import fitness from "./images/fitness.png"
+import ttf from "./images/ttf.png"
+import eaglecafe from "./images/eaglecafe.png"
 import "./style.css"
 
 function Projectslide() {
@@ -36,6 +38,42 @@ function Projectslide() {
                         <a href="https://github.com/aarkitekkt/brb-laptops" target="_blank" rel="noopener noreferrer">
                             <div className="card-body">
                                 <h3 className="card-title" style={{ textAlign: 'center' }}>BRB Laptops Repo</h3>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div className="carousel-item">
+                    <div className=" border card rounded m-2 ml-4 col-s-11 ">
+                        <a href="https://eaglecafeutah.com" target="_blank" rel="noopener noreferrer">
+                            <div className="card-body">
+                                <h3 className="card-title " style={{ textAlign: 'center' }}>
+                                    Eagle Cafe App
+                </h3>
+                            </div>
+                        </a>
+
+                        <img src={eaglecafe} className="card-img-top weatherThumbnail img-responsive" alt="cafe" />
+
+                        <a href="https://github.com/rythomas2525/eaglecafe" target="_blank" rel="noopener noreferrer">
+                            <div className=" card-body">
+                                <h3 className="card-title" style={{ textAlign: 'center' }}>Eagle Cafe Repo</h3>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div className="carousel-item">
+                    <div className=" card border rounded m-2 ml-4  col-s-11 ">
+                        <a href="https://totally-tubular-finances.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                            <div className="card-body">
+                                <h3 className="card-title " style={{ textAlign: 'center' }}>
+                                    Totally Tubular Finances App
+                </h3>
+                            </div>
+                        </a>
+                        <img src={ttf} className="card-img-top burgerinputThumbnail  img-responsive" alt="TTF" />
+                        <a href="https://github.com/Braydon-Nelson/TTF-Project" target="_blank" rel="noopener noreferrer">
+                            <div className="card-body">
+                                <h3 className="card-title" style={{ textAlign: 'center' }}>Totally Tubular Finances Repo </h3>
                             </div>
                         </a>
                     </div>
@@ -72,28 +110,12 @@ function Projectslide() {
                         <img src={project1} className="card-img-top project1Thumbnail  img-responsive" alt="Weather" />
                         <a href="https://github.com/braydon-nelson/project-1" target="_blank" rel="noopener noreferrer">
                             <div className="card-body">
-                                <h3 className="card-title" style={{ textAlign: 'center' }}>Meme &amp; Movie Repo</h3>
+                                <h3 className="card-title" style={{ textAlign: 'center' }}>Meme &amp; TTF Repo</h3>
                             </div>
                         </a>
                     </div>
                 </div>
-                <div className="carousel-item">
-                    <div className=" card border rounded m-2 ml-4  col-s-11 ">
-                        <a href="https://mysterious-headland-58622.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-                            <div className="card-body">
-                                <h3 className="card-title " style={{ textAlign: 'center' }}>
-                                    Burger Input
-                </h3>
-                            </div>
-                        </a>
-                        <img src={burger} className="card-img-top burgerinputThumbnail  img-responsive" alt="Weather" />
-                        <a href="https://github.com/rythomas2525/burgerinput " target="_blank" rel="noopener noreferrer">
-                            <div className="card-body">
-                                <h3 className="card-title" style={{ textAlign: 'center' }}>Burger Input Repo </h3>
-                            </div>
-                        </a>
-                    </div>
-                </div>
+
                 {/* employee tracker */}
                 <div className="carousel-item">
                     <div className=" card border rounded m-2 ml-4  col-s-11 ">

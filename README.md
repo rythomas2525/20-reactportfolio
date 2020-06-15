@@ -9,8 +9,6 @@ Portfolio
 https://ryanlthomas.com
 
 
-
-
 ## SCREENSHOT
 ![Image description](./screenshot.png)
 
